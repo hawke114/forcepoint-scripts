@@ -2,8 +2,8 @@
 #* Script Name: firefoxcertimport.ps1
 #* Created:     2016-3-17
 #* Author:  Matthew Dudlo
-#* Purpose:  This script copies the firefox databases need to mass-deploy
-#*           Trusted CA certificates.
+#* Purpose:  This script facilitates the creation of a sub ca
+#*           
 #*=============================================================================
  
 #*=============================================================================
